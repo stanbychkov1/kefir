@@ -1,0 +1,5 @@
+username,email,password,is_superuser,is_staff
+user_1,user_1@s.ru,1234,0,0
+user_2,user_2@s.ru,1234,0,0
+user_3,user_3@s.ru,1234,0,0
+user_admin,user_admin@s.ru,1234,1,1
